@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript 프로그래밍을 학습합니다.",
+  "author": "yamoo9 <yamoo9@euid.dev>"
+}
