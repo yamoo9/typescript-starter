@@ -4,8 +4,8 @@ TypeScript 프로그래밍을 학습합니다.
 
 ## 타입 에너테이션
 
-1. [타입 주석(Type Annotation)](https://bit.ly/3GbCf3E)
-1. [타입 추론(Type Inference)](https://bit.ly/3E5TiS1)
+1. [타입 주석(Type Annotation)](https://bit.ly/3E5TiS1)
+1. [타입 추론(Type Inference)](https://bit.ly/3GbCf3E)
 1. [애니 타입(Any Type)](https://bit.ly/3E8aK8N)
 
 ## 함수 에너테이션
