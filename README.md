@@ -46,7 +46,7 @@ TypeScript 프로그래밍을 학습합니다.
 
 ## 인터페이스
 
-1. [인터페이스 (Interfaces)](https://bit.ly/3hxqF8J)
+1. [인터페이스 (Interfaces)](https://bit.ly/3BVehtT)
 1. [읽기전용(readonly), 옵셔널(optional) 인터페이스 프로퍼티](https://bit.ly/3EvTQSV)
 1. [인터페이스 메서드 (Interface Methods)](https://bit.ly/3WTKiIB)
 1. [인터페이스 다시 열기 (Reopening Interfaces)](https://bit.ly/3GdT7qD)
