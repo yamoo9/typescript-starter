@@ -13,7 +13,7 @@
 // https://www.typescriptlang.org/docs/handbook/2/modules.html#typescript-namespaces
 
 // 하지만 네임스페이스는 여전히 타입 선언 파일에 사용되기도 합니다. (예: chrome)
-// https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/chrome/index.d.ts#L40
+// https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/chrome/index.d.ts#L12
 
 // ------------------------------------------------------------------------------------------
 
@@ -29,3 +29,6 @@ import {
   type Cat as CatType,
   type Dog as DogType,
 } from './animal.js';
+
+// type을 사용해 선언된 타입을 가져오면 Babel, SWC 또는 Esbuild와 같은
+// TypeScript가 아닌 트랜스파일러가 어떤 가져오기를 안전하게 제거할 수 있는지 알 수 있습니다.

@@ -20,7 +20,7 @@
 }
 
 {
-  // 십10대인지 여부를 나이 값으로 확인하는 함수 isTeenager에 타입 축소(Type Narrowing)를 설정합니다.
+  // 10대인지 여부를 나이 값으로 확인하는 함수 isTeenager에 타입 축소(Type Narrowing)를 설정합니다.
   const isTeenager = (age: number | string): boolean => {
     // age 타입이 number인 경우
     // age 타입이 string인 경우
